@@ -1,0 +1,47 @@
+body, html
+{
+	margin: 0 auto;
+	padding: 0; 
+}
+
+header
+{
+	background-color: rgb(48, 27, 94);
+	color: white;
+	font-size:120%;
+	text-align: center;
+	height: 80px;
+}
+
+nav
+{
+	background-color: rgb(127, 118, 158);
+	width: 25%;
+	height: 500px;
+	color: white;
+	float: left;
+}
+
+main
+{
+	background-color: rgb(220, 220, 220);
+	width: 75%;
+	height: 500px;
+	font-size: 110%;
+	float: left; 
+}
+
+footer
+{
+	clear: left;
+	background-color: rgb(127, 118, 158);
+	color: white;
+	text-align: center;
+	height: 80px;
+}
+
+table, th, tr
+{
+	border: solid 1px;
+	border-color: white;
+}
